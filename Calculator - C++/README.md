@@ -29,6 +29,6 @@ Got ideas? I'd love to see them! Here's how you can make this calculator the tal
 - Spot a glitch? Let me know! 🐛
 
 ## License - Share the Joy! 💌
-Feel the love with the MIT License. Share, modify, and spread the joy as much as you like! Check out [LICENSE](./LICENSE) for more deets.
+Feel the love with the MIT License. Share, modify, and spread the joy as much as you like! Check out [LICENSE](../LICENSE) for more deets.
 
 Thanks for dropping by! Let's calculate the fun together! 🥳
